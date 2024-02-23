@@ -1,4 +1,2 @@
-Grocery Store Management
-Frontend: Html,CSS Javascript
-Backend:Python
-Database:Mysql
+HR ANALYTICS PROJECT
+for monitoring attendance of Employeee
